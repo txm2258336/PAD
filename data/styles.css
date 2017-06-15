@@ -15,6 +15,9 @@
 }
 .placeholder {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -76,9 +79,13 @@
   text-align:center;
   line-height:normal;
 }
+.snapshot {
+}
 .sticky_2 {
   text-align:left;
 }
 .marker {
   color:#FFFFFF;
+}
+.flow_shape {
 }
